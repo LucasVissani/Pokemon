@@ -1,0 +1,61 @@
+@import url(css/base.css);
+@import url(css/normalize.css);
+@import url(css/limpia.css);
+@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
+
+*{
+	-webkit-box-sizing: border box;
+	-moz-box-sizing:border box;
+	box-sizing:border-box;
+	font-family: 'Montserrat', sans-serif, e1e1e1;
+}
+
+body{
+	overflow-x: hidden;
+}
+
+#body{
+	margin: -1%;
+}
+
+.moon{
+	color: #e1e1e1;
+	background-color: #01090f;
+}
+
+
+#moon1{
+	margin: 0px auto;
+	margin-top: -10px;
+	min-height: 800px;
+	text-align: center;
+	background: url(http://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_3ds_25/H2x1_3DS_PokemonMoon_enGB_image1280w.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat:	no-repeat;
+	overflow: hidden;
+	}
+
+
+h2{
+	text-indent:-9999999999px;
+}
+
+.texto{
+	margin-top: 60px;
+}
+
+.video{
+	margin-top: 90px;
+	text-align: center;
+}
+
+#moon2{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+#moon3{
+	margin-left: 15%;
+	margin-right: 15%;
+}

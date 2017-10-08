@@ -1,0 +1,8 @@
+.container:after,
+.row:after,
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+	height: 0;
+}
